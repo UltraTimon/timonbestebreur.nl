@@ -1,0 +1,13 @@
+.header {
+    width: 80%;
+    margin: auto;
+}
+.body {
+    size: 16px;
+    width: 80%;
+    margin: auto;
+    line-height: 1.4;
+}
+body {
+    background-color: #EEEEEE;
+}
