@@ -54,4 +54,6 @@ My parents raised me and my teachers taught me. But beyond that, there were some
 
 **Kenn Folett** taught me how life in the middle ages was, not only for the nobility and the knights high on their horses, but he also beautifully described how life was for normal, poor people in his book [The Pillars of the Earth](https://ken-follett.com/bibliography/the_pillars_of_the_earth/).
 
+**Julius Loewenstein** taught me that it is important to be clear about what your goal is when preparing a presentation in his book [Public Speaking](https://julius-loewenstein.com).
 
+**Jacob Lund Fisker** taught me that it's totally possible to live on 25% of your income by learning to do lots of things yourself, so you don't have to pay someone to do it for you in his book [Early Retirement Extreme](http://earlyretirementextreme.com/ere-book).
