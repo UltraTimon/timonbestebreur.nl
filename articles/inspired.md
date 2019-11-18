@@ -49,3 +49,9 @@ My parents raised me and my teachers taught me. But beyond that, there were some
 **Stephen Richards Covey** taught me to focus on my energy on the things I have influence on rather than worry about the things I don't have influence on in his book [7 habits of highly effective people](https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People).
 
 **Mr. Swaroop** taught me how to use the VIM editor in his book [A Byte of Vim](https://vim.swaroopch.com), which I now try to use as much as I can since it is way more efficient than using a traditional text editor.
+
+**William Shotts** showed me how versatile and powerful the linux command line is in his book [The Linux Command Line](http://www.linuxcommand.org/tlcl.php/).
+
+**Kenn Folett** taught me how life in the middle ages was, not only for the nobility and the knights high on their horses, but he also beautifully described how life was for normal, poor people in his book [The Pillars of the Earth](https://ken-follett.com/bibliography/the_pillars_of_the_earth/).
+
+
