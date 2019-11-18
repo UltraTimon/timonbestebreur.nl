@@ -2,9 +2,11 @@
   <link rel="stylesheet" type="text/css" href="../stylesheet.css">
 </head>
 
+[Home](../index.html)
+
 # The people that inspired me
 
-My parents raised me and my teachers taught me. But beyond that, there were some other people that wrote books or articles which inspired me, gave me a new perspective and taught me to look at things differently. This is a list of these people, and the things that they taught me. I will not go into detail about everything they learned me, but highlight the most important lessons.
+My parents raised me and my teachers taught me. But beyond that, there were some other people that wrote books or articles which inspired me, gave me a new perspective and taught me to look at things differently. This is a list of these people, and the things that they taught me. I will not go into detail about everything they learned me, but highlight the lessons that had the most impact on my life.
 
 **Thomas Frank** showed me that there exist a lot of interesting non-fiction books in [this video](https://www.youtube.com/watch?v=SwY3A92s-xg), which opened the way for the next few people to come into my life.
 
