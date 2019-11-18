@@ -26,4 +26,8 @@ My parents raised me and my teachers taught me. But beyond that, there were some
 
 **George Raymond Richard Martin** showed me that I really love medieval war stories in his book series [A song of Ice and Fire](http://www.georgerrmartin.com/grrm_book/a-song-of-ice-and-fire-box-set-books-1-4/).
 
+**George Orwell** showed me that a life without privacy is something to be avoided in his book [1984](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four).
+
+**Nicholas Carr** showed me that the internet can shorten one's capability to concentrate, rewiring the brain in such a way that it becomes addicted to bits of information in his book [The Shallows](http://www.nicholascarr.com/?page_id=16). This motivated me to ditch my smartphone and carry my laptop and a Nokia 3310 with me.
+
 
