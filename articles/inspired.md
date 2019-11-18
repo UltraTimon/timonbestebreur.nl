@@ -16,3 +16,6 @@ My parents raised me and my teachers taught me. But beyond that, there were some
 
 **Charles Duhigg** showed me that habits exist and we can alter them in such a way that we can make out default behaviour the right behaviour in his book [The Power of Habit](https://www.charlesduhigg.com/the-power-of-habit/).
 
+**David Allen** taught me that a mind is for having ideas, not storing them, and that I should get these ideas out of my head into a system as quick as possible in his book [Getting Things Done](https://gettingthingsdone.com/what-is-gtd/).
+
+
