@@ -44,4 +44,8 @@ My parents raised me and my teachers taught me. But beyond that, there were some
 
 **Greg McKeown** taught me that we get the most result if our work if we focus it towards one direction, instead of trying to advance multiple small projects at once in his book [Essentialism](https://gregmckeown.com/book/).
 
+**Jason Schreier** showed me that the development of video games is a bumpy road, but one which can be very rewarding in his book [Blood, Sweat and Pixels](https://www.harpercollins.com/9780062651235/blood-sweat-and-pixels/).
 
+**Stephen Richards Covey** taught me to focus on my energy on the things I have influence on rather than worry about the things I don't have influence on in his book [7 habits of highly effective people](https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People).
+
+**Mr. Swaroop** taught me how to use the VIM editor in his book [A Byte of Vim](https://vim.swaroopch.com), which I now try to use as much as I can since it is way more efficient than using a traditional text editor.
