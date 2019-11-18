@@ -38,4 +38,8 @@ My parents raised me and my teachers taught me. But beyond that, there were some
 
 **Ramit Sethi** showed me that saving money can become an automated habit by automatically sending away your intended savings to a savings account at the beginning of the month instead of going about and savind whatever money is left at the end of the month (spoiler alert: Not Much) in his book [I Will Teach you to be rich](https://www.iwillteachyoutoberich.com/book/).
 
+**Jesse Mecham** showed me that I need a budget in his book [You Need a Budget](https://www.youneedabudget.com/ynab-the-book/). A budget gives me the overview of where my money is, what it's doing and it helps me to break down bigger payments in smaller monthly ones by saving for it for multiple months.
+
+**Ashlee Vance** showed me that Elon Musk is a visionary with plans that are so big that sometimes he puts his plans above the people he works with, which sometimes resulted in him treating the people around him in an unfriendly way in her biography of [Elon Musk](https://www.indiebound.org/book/9780062463272).
+
 
