@@ -23,3 +23,7 @@ My parents raised me and my teachers taught me. But beyond that, there were some
 **Clive Staples Lewis** showed me another way to look at heaven and hell in his book [The Great Divorce](https://www.cslewis.com/us/books/paperback/the-great-divorce/9780060652951/). Instead of heaven being the place where "good" christians go and hell being the place where bad people are punished for their wrong behaviour during their time on earth, Lewis depicts heaven as the place where people who _want_ to be with God go to, and hell is just a place where God is not. The choice of where you want to go is up to the people themselves.
 
 **Dave Eggers** showed me that not every technological advancement is one we should embrace wholeheartedly without being aware of the full consequences in his book [The Circle](https://daveeggers.net/the-circle).
+
+**George Raymond Richard Martin** showed me that I really love medieval war stories in his book series [A song of Ice and Fire](http://www.georgerrmartin.com/grrm_book/a-song-of-ice-and-fire-box-set-books-1-4/).
+
+
