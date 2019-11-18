@@ -34,4 +34,8 @@ My parents raised me and my teachers taught me. But beyond that, there were some
 
 **Jordan Ellenberg** showed me that impossible things never happen, but improbable things happen a lot in his book [How to not be Wrong](http://www.jordanellenberg.com/how-not-to-be-wrong/).
 
+**Dale Carnegie** showed me that you can make more friends by being interested in other people than you can in two years by trying to get other people to be interested in you in his book [How to Win Friends and Influence People](https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People).
+
+**Ramit Sethi** showed me that saving money can become an automated habit by automatically sending away your intended savings to a savings account at the beginning of the month instead of going about and savind whatever money is left at the end of the month (spoiler alert: Not Much) in his book [I Will Teach you to be rich](https://www.iwillteachyoutoberich.com/book/).
+
 
