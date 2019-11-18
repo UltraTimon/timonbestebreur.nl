@@ -30,4 +30,8 @@ My parents raised me and my teachers taught me. But beyond that, there were some
 
 **Nicholas Carr** showed me that the internet can shorten one's capability to concentrate, rewiring the brain in such a way that it becomes addicted to bits of information in his book [The Shallows](http://www.nicholascarr.com/?page_id=16). This motivated me to ditch my smartphone and carry my laptop and a Nokia 3310 with me.
 
+**Annie Grace** showed me that life without alcohol leads to more fun at parties, better conversations and major health improvements in her book [This Naked Mind](https://thisnakedmind.com/purchase-naked-mind-control-alcohol-book/). This motivated me to stop drinking alcohol.
+
+**Jordan Ellenberg** showed me that impossible things never happen, but improbable things happen a lot in his book [How to not be Wrong](http://www.jordanellenberg.com/how-not-to-be-wrong/).
+
 
