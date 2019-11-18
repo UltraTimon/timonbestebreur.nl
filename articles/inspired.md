@@ -10,7 +10,7 @@ My parents raised me and my teachers taught me. But beyond that, there were some
 
 **Thomas Frank** showed me that there exist a lot of interesting non-fiction books in [this video](https://www.youtube.com/watch?v=SwY3A92s-xg), which opened the way for some of the next few people to come into my life.
 
-**Cal Newport** showed me that not all studying is equal and some methods are more efficient than others in his book [How to become a Straight A Student](https://www.calnewport.com/books/straight-a-student/), he showed me that being able to focus on a cognitively demanding task without distractions is a worthwile pursuit in his book [Deep Work](https://www.calnewport.com/books/deep-work/) and that being good at what you do gives more satisfaction than following your passion (since you will enjoy to do what you are good at) in his book [So good they can't ignore you](https://www.calnewport.com/books/so-good/).
+**Cal Newport** showed me that not all studying is equal and some methods are more efficient than others in his book [How to become a Straight A Student](https://www.calnewport.com/books/straight-a-student/), he showed me that being able to focus on a cognitively demanding task without distractions is a worthwile pursuit in his book [Deep Work](https://www.calnewport.com/books/deep-work/), that being good at what you do gives more satisfaction than following your passion (since you will enjoy to do what you are good at) in his book [So good they can't ignore you](https://www.calnewport.com/books/so-good/) and that free time is best spent pursuing hobbies and connecting with friends, without technology to take our time and energy in his book [Digital Minimalism](https://www.calnewport.com/books/digital-minimalism/).
 
 **Timothy Keller** showed me that building your identity on the way God sees you is a good idea in his book [The reason for God](https://timothykeller.com/books/the-reason-for-god), since earthly things which people base their identity on (being rich, having a good carreer) may fall away. God however, will be with us whatever happens. 
 
@@ -41,5 +41,7 @@ My parents raised me and my teachers taught me. But beyond that, there were some
 **Jesse Mecham** showed me that I need a budget in his book [You Need a Budget](https://www.youneedabudget.com/ynab-the-book/). A budget gives me the overview of where my money is, what it's doing and it helps me to break down bigger payments in smaller monthly ones by saving for it for multiple months.
 
 **Ashlee Vance** showed me that Elon Musk is a visionary with plans that are so big that sometimes he puts his plans above the people he works with, which sometimes resulted in him treating the people around him in an unfriendly way in her biography of [Elon Musk](https://www.indiebound.org/book/9780062463272).
+
+**Greg McKeown** taught me that we get the most result if our work if we focus it towards one direction, instead of trying to advance multiple small projects at once in his book [Essentialism](https://gregmckeown.com/book/).
 
 
