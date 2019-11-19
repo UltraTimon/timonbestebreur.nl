@@ -6,7 +6,7 @@
 
 # The purpose of this website
 
-If you read through the homepage, you might have noticed I like programming. I can imageine some confusion if you see this simple website, since programmers like to create big fancy websites with all kinds of smooth animations using the latest and greatest versions of web technology, right?
+If you read through the homepage, you might have noticed I like programming. I can imagine some confusion if you see this simple website, since programmers like to create big fancy websites with all kinds of smooth animations using the latest and greatest versions of web technology, right?
 
 Well, I do like to create websites, but it's not my main focus. I like to do other kinds of programming, like the [LinkedList I wrote in C](./linkedlist.html). This focuses more on the functionality than the looks.
 

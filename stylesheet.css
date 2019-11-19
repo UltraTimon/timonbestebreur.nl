@@ -1,9 +1,14 @@
 
 body {
     font-size: 1.2em;
-    width: 40%;
+    width: 80%;
+    max-width: 35em;
     margin: auto;
     line-height: 1.4;
-    background-color: #EEEEEE;
+    background-color: rgb(243, 230, 188);
     font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #454545;
+}
+a {
+    color: #0077aa;
 }
