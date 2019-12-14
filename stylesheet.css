@@ -13,8 +13,9 @@ body {
 a {
     color: #0077aa;
 }
-@media(max-width:30em){
-    body{
-        font-size: 1.4em;
+@media (min-width: 320px) and (max-width: 480px) {
+    body {
+        font-size: 1.5em;
+        width: 95%;
     }
 }
