@@ -1,6 +1,7 @@
 
 body {
-    font-size: 1.2em;
+    font-size: 16px;
+    line-height: 1.2em;
     width: 80%;
     max-width: 35em;
     margin: auto;
@@ -11,4 +12,9 @@ body {
 }
 a {
     color: #0077aa;
+}
+@media(min-width:60em){
+    body{
+        font-size: 90%;
+    }
 }
