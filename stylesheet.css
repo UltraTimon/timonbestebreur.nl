@@ -1,6 +1,6 @@
 
 body {
-    font-size: 1.2em;
+    font-size: 1.3em;
     line-height: 1.2em;
     width: 80%;
     max-width: 35em;
@@ -13,9 +13,8 @@ body {
 a {
     color: #0077aa;
 }
-@media (min-width: 320px) and (max-width: 480px) {
+@media all and (max-width: 1024px) {
     body {
-        font-size: 1.4em;
         width: 95%;
     }
 }
