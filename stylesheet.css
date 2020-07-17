@@ -5,7 +5,7 @@ body {
     max-width: 35em;
     margin: auto;
     line-height: 1.4;
-    background-color: #f5efe3;
+    background-color: #f7f2ca;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #454545;
 }
@@ -13,7 +13,10 @@ a {
     color: #0077aa;
 }
 @media (min-width: 320px) and (max-width: 1081px) {
+    * {
+        font-size: 1.2em;
+    }
     body {
-        width: 95%;
+        width: 100%;
     }
 }
