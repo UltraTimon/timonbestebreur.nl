@@ -1,0 +1,26 @@
+<p><head>
+    <link rel="stylesheet" type="text/css" href="./stylesheet.css">
+</head></p>
+  
+<p><a href="./index.html">Home</a></p>
+
+<h1>IS IT WEDNESDAY?</h1>
+
+<script>
+
+window.onload = function() {
+    var n = new Date();
+    if (n.getDay() == 3) {
+
+        document.getElementById('wed').innerHTML = '<div class="wordart blues"><span class="text">YES IT IS WEDNESDAY</span></div> <iframe width="560" height="315" src="https://www.youtube.com/embed/du-TY1GUFGk?rel=0&controls=0&showinfo=0&playlist=du-TY1GUFGk&loop=1&autoplay=1" frameborder="0" allow="autoplay; encrypted-media"></iframe> <br>';
+
+    } else {
+        document.getElementById('wed').innerHTML = '<h3> Unfortunately it is not wednesday. Please come back to this page when it is wednesday! </h3>';
+    }
+
+};
+
+  </script>
+
+<div id="wed"></div>
+
