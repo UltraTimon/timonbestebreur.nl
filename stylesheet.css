@@ -1,15 +1,18 @@
 
 body {
     font-size: 1.4em;
-    width: 80%;
-    max-width: 35em;
+    width: 70%;
+    max-width: 30em;
     margin: auto;
     line-height: 1.4;
-    background-color: #f7f2ca;
+    background-color: #f8e4b8;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #454545;
 }
 a {
+    color: #454545;
+}
+a:hover {
     color: #0077aa;
 }
 img {
