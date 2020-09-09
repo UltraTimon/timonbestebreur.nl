@@ -1,6 +1,6 @@
 
 body {
-    font-size: 1.3em;
+    font-size: 1.4em;
     width: 80%;
     max-width: 35em;
     margin: auto;
@@ -16,14 +16,6 @@ img {
     width: 100%;
     margin: auto;
     margin: 10px;
-}
-@media (min-width: 320px) and (max-width: 1081px) {
-    * {
-        font-size: 1.2em;
-    }
-    body {
-        width: 100%;
-    }
 }
 
 .wordart {
