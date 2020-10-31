@@ -1,6 +1,7 @@
 # Personal website of Timon Bestebreur
 
-**Hi there! If you got here, but intended to go to the actual website, please click this link: [https://timonbestebreur.nl]**
+**Hi there! If you got here, but intended to go to the actual website, please click this link: 
+[https://timonbestebreur.nl]**
 
 This is the code for my personal website. Here I tell a little about myself and you can find out how to contact me.
 For some reason Google does not index my website, but this repository scores quite good, so you can still get to the website via the link above.
