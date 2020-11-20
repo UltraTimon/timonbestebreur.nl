@@ -5,12 +5,13 @@ body {
     max-width: 30em;
     margin: auto;
     line-height: 1.4;
-    background-color: #f8e4b8;
+    background-color: #333230;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: #454545;
+    font-family: 'Courier New', Courier, monospace;
+    color: #f0e7e7;
 }
 a {
-    color: #454545;
+    color: #f0e7e7;
 }
 a:hover {
     color: #0077aa;
@@ -39,12 +40,37 @@ img {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
   }
-  
-  .wordart.blues .text {
-      font-family: Impact, sans-serif;
-      color: #24c0fd;
-      -webkit-text-stroke: 0.01em #0000aa;
-      filter: progid:DXImageTransform.Microsoft.Glow(Color=#0000aa,Strength=1);
-      text-shadow: 0.13em -0.13em 0px #0000aa;
-      letter-spacing: -0.05em;
-  }
+
+.wordart.blues .text {
+    font-family: Impact, sans-serif;
+    color: #24c0fd;
+    -webkit-text-stroke: 0.01em #0000aa;
+    filter: progid:DXImageTransform.Microsoft.Glow(Color=#0000aa,Strength=1);
+    text-shadow: 0.13em -0.13em 0px #0000aa;
+    letter-spacing: -0.05em;
+}
+
+#navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#navbar li {
+    display: inline-flex;
+    background-color: #555453;
+    border-radius: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-top: 10px;
+}
+
+#navbar li:hover{
+    background-color: #646360;
+    color: #f0e7e7;
+}
+
+#navbar a {
+    text-decoration: none;
+    color: 454545;
+}
