@@ -1,4 +1,4 @@
 #!/bin/bash
 
-cat recipes-header.html > recipes.html
-pandoc -s recipes.md -t html --template=template.html --toc --quiet >> recipes.html
+cat recipes-header.html > index.html
+pandoc -s recipes.md -t html --template=template.html --toc --quiet >> index.html

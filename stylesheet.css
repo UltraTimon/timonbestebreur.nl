@@ -1,12 +1,12 @@
 
 body {
-    font-size: 24px;
-    width: 70%;
-    max-width: 30em;
+    font-size: 25px;
+    width: 90%;
+    max-width: 35em;
     margin: auto;
     line-height: 1.4;
     background-color: #333230;
-    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
     color: #f0e7e7;
 }
 a {
@@ -15,13 +15,6 @@ a {
 a:hover {
     color: #0077aa;
 }
-@media only screen and (max-width: 1081px) {
-    body {
-        width: 95%;
-        font-size: 30px;
-    }
-}
-
 
 img {
     width: 100%;
@@ -29,6 +22,13 @@ img {
     margin-top: 10px;
 }
 
+.body {
+    clear: both;
+}
+
+
+
+/* Ugly wordard below - pls ignore this is just for laughs */
 .wordart {
     font-family: Arial, sans-serif;
     font-size: 4em;
@@ -47,29 +47,4 @@ img {
     filter: progid:DXImageTransform.Microsoft.Glow(Color=#0000aa,Strength=1);
     text-shadow: 0.13em -0.13em 0px #0000aa;
     letter-spacing: -0.05em;
-}
-
-#navbar {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-
-#navbar li {
-    display: inline-flex;
-    background-color: #555453;
-    border-radius: 20px;
-    padding-left: 15px;
-    padding-right: 15px;
-    margin-top: 10px;
-}
-
-#navbar li:hover{
-    background-color: #646360;
-    color: #f0e7e7;
-}
-
-#navbar a {
-    text-decoration: none;
-    color: 454545;
 }
